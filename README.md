@@ -1,1 +1,3 @@
-# purescript-\*
+# purescript-language-common
+
+Common types for `language-*` projects.
