@@ -2,6 +2,7 @@
   "private": true,
   "license": "BSD-3-Clause",
   "scripts": {
+    "mono": "spago -x mono.dhall",
     "test": "spago -x tests.dhall test",
     "repl": "spago -x tests.dhall repl"
   }
